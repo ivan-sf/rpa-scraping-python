@@ -1,4 +1,4 @@
- Documentación TécnicaDocumentación Técnica
+ Documentación Técnica
 =====================
 
 Descripción
