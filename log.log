@@ -1,0 +1,1084 @@
+2023-05-31 22:13:18,018 - ERROR - Error en el proceso de web scraping: 'A'
+2023-05-31 22:15:02,497 - ERROR - Error en el proceso de web scraping: 'A'
+2023-05-31 22:17:34,470 - ERROR - Error en el proceso de web scraping: 'A'
+2023-05-31 22:18:51,661 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:18:51,675 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:18:51,691 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:18:51,691 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:18:51,691 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:18:51,706 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:18:51,706 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:18:51,706 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:18:51,722 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:18:51,722 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:18:51,722 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:18:51,738 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:18:51,738 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:18:51,738 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:18:51,753 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:18:51,753 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:18:51,753 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:18:51,769 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:18:51,769 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:18:51,769 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:20:33,941 - ERROR - Error en el proceso de web scraping: 'A'
+2023-05-31 22:22:15,885 - ERROR - Error en el proceso de web scraping: too many values to unpack (expected 2)
+2023-05-31 22:31:16,629 - ERROR - Error al cargar el archivo XLSX: expected str, bytes or os.PathLike object, not NoneType
+2023-05-31 22:31:16,629 - ERROR - Error en el proceso de web scraping: expected str, bytes or os.PathLike object, not NoneType
+2023-05-31 22:32:39,634 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:32:39,655 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:32:39,656 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:32:39,676 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:32:39,676 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:32:39,692 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:32:39,692 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:32:39,692 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:32:39,706 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:32:39,711 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:32:39,711 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:32:39,711 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:32:39,711 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:32:39,723 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:32:39,724 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:32:39,724 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:32:39,724 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:32:39,724 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:32:39,724 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:32:39,739 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:32:39,741 - ERROR - Error en la navegación web: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.129)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F48893+48451]
+	(No symbol) [0x00EDB8A1]
+	(No symbol) [0x00DE5058]
+	(No symbol) [0x00DCD073]
+	(No symbol) [0x00E2DEBB]
+	(No symbol) [0x00E3BFD3]
+	(No symbol) [0x00E2A0B6]
+	(No symbol) [0x00E07E08]
+	(No symbol) [0x00E08F2D]
+	GetHandleVerifier [0x011A8E3A+2540266]
+	GetHandleVerifier [0x011E8959+2801161]
+	GetHandleVerifier [0x011E295C+2776588]
+	GetHandleVerifier [0x00FD2280+612144]
+	(No symbol) [0x00EE4F6C]
+	(No symbol) [0x00EE11D8]
+	(No symbol) [0x00EE12BB]
+	(No symbol) [0x00ED4857]
+	BaseThreadInitThunk [0x76826B89+25]
+	RtlGetFullPathName_UEx [0x77B38F9F+1215]
+	RtlGetFullPathName_UEx [0x77B38F6D+1165]
+
+2023-05-31 22:39:28,647 - ERROR - Formato de tiempo no válido. Utilice el formato HH:MM.
+2023-05-31 22:39:39,894 - INFO - Proceso programado para la hora: 22:40
+2023-05-31 22:39:42,409 - INFO - Proceso programado para la hora: 22:40
+2023-05-31 22:42:18,408 - INFO - Proceso programado para la hora: 22:43
+2023-05-31 22:51:19,344 - ERROR - Error en la navegación web: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+2023-05-31 22:51:20,447 - ERROR - Error en el proceso de web scraping: main thread is not in main loop
+2023-05-31 23:48:24,050 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A83D561480>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/9b0b66018e07d7039c7cb49575097d14/url
+2023-05-31 23:48:28,143 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A83D51AC80>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/9b0b66018e07d7039c7cb49575097d14/url
+2023-05-31 23:48:32,239 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A83D51ACE0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/9b0b66018e07d7039c7cb49575097d14/url
+2023-05-31 23:48:36,346 - ERROR - Error en la navegación web: HTTPConnectionPool(host='localhost', port=61820): Max retries exceeded with url: /session/9b0b66018e07d7039c7cb49575097d14/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A83D588E80>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2023-05-31 23:48:36,346 - ERROR - Error en el proceso de web scraping: 'NoneType' object has no attribute 'replace'
